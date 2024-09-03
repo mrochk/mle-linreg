@@ -1,5 +1,5 @@
 # MLE Linear Regression
-Explanation and example of how we can derive the Ordinary Least Squares formula using Maximum Likelihood Estimation (under normal distribution assumption) for choosing linear regression parameters.
+Brief explanation of how we can derive the Ordinary Least Squares formula from a normal (gaussian) distribution Maximum Likelihood Estimation.
 
 I derive it from scratch, explaining and showing all the different steps.
 
